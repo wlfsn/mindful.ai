@@ -1,6 +1,6 @@
 - 👋 Hi, I’m VIV.
-- 👀 I’m interested in DNA/mRNA sequencing, blockchain, and ML/DL modeling for detection of viral mutations.
-- 🌱 I’m currently learning how to build smart contracts for genomics use cases
+- 👀 I’m interested in the touchpoints of Applied AI/ML, Customer Experience, and E-commerce.
+- 🌱 I’m currently learning how to build AI applications for sentiment analysis
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
