@@ -1,5 +1,5 @@
 - 👋 Hi, I’m VIV.
-- 👀 I’m applying artificial intelligence models to reimagine e-commerce markets
+- 👀 I’m designing better consumption habits and shopping experiences with artificial intelligence
 - 🌱 I’m currently learning how to build AI applications for sentiment analysis
 - 💞️ I’m looking to collaborate on revolutionizing online shopping CX
 - 📫 How to reach me ...
