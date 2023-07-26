@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VIV.
-- 👀 I’m building personalized shopping experiences with artificial intelligence
-- 🌱 I’m currently learning how to build AI applications for sentiment analysis
-- 💞️ I’m looking to collaborate on revolutionizing online shopping CX
+- 👀 I’m building immersive shopping experiences with generative AI
+- 🌱 I’m currently learning how to make generative models interact with humans in physical space
+- 💞️ I’m looking to collaborate on revolutionizing the online shopping customer experience
 - 📫 How to reach me ...
 
 <!---
